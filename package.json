@@ -1,0 +1,9 @@
+{
+  "name": "url-shortener-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js",
+    "install-backend": "cd backend && npm install",
+    "build": "cd backend && npm install"
+  }
+}
